@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@rollup/rollup-darwin-arm64": "^4.34.8",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
